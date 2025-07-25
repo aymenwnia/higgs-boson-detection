@@ -59,7 +59,7 @@ After running HPO for all three implementations, the final comparison yielded a 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/higgs-boson-detection.git](https://github.com/your-username/higgs-boson-detection.git)
+    git clone [https://github.com/aymenwnia/higgs-boson-detection.git](https://github.com/aymenwnia/higgs-boson-detection.git)
     cd higgs-boson-detection
     ```
 
@@ -80,7 +80,7 @@ After running HPO for all three implementations, the final comparison yielded a 
 
 ##  Technologies Used
 
-* Python 3.x
+* Python 3.12
 * Pandas & NumPy for data manipulation
 * Matplotlib & Seaborn for plotting
 * Scikit-learn for preprocessing and HPO (`RandomizedSearchCV`)
