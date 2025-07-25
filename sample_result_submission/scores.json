@@ -1,0 +1,8 @@
+{
+    "rmse": 2.4825,
+    "mae": 2.5824,
+    "interval": 0.5173,
+    "coverage": 0.0,
+    "quantiles_score": -13.5264,
+    "ingestion_duration": 0
+}
