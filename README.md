@@ -64,9 +64,6 @@ After running HPO for all three implementations, the final comparison yielded a 
     ```
 
 2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 3.  **Run the analysis:**
     * The project uses a pre-compiled dataset specified within the main script.
